@@ -1,0 +1,13 @@
+1)Need to add all packages with npm i command.
+2)Project will run with command npm run dev.
+3)Project will run on  host http://127.0.0.1:5173/
+4)Project having only Front end support.
+
+
+
+First off all we need to close git repo to our local and then we have to run npm i command this command will
+add all the required packages and after that we just need to run another command run npm dev this will take 5 sec and page will up and running.
+
+
+Github repository: 
+https://github.com/AnujaPhalake31/ecartproject.git
